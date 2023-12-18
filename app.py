@@ -6,6 +6,8 @@ screen_width = 600
 screen_height = 800
 
 skwed_probabitity = [0.7, 0.1, 0.05, 0.08, 0.04, 0.02, 0.01, 0, 0]
+# skwed_probabitity = [0, 0, 0, 0, 0, 0, 0, 0, 1] # only purple
+
 
 black = (0,0,0)
 white = (255,255,255)
