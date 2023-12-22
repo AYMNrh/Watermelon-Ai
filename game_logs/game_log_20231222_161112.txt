@@ -1,0 +1,31 @@
+Added ball: Color=white, Position=(192, 55)
+Current Score: 0
+Ball white at (192, 55)
+
+Added ball: Color=white, Position=(95, 55)
+Current Score: 0
+Ball white at (192, 55.05)
+Ball white at (95, 55)
+
+Added ball: Color=white, Position=(380, 55)
+Current Score: 0
+Ball white at (192, 55.15)
+Ball white at (95, 55.05)
+Ball white at (380, 55)
+
+Added ball: Color=blue, Position=(233, 125)
+Current Score: 0
+Ball white at (192, 55.3)
+Ball white at (95, 55.15)
+Ball white at (380, 55.05)
+Ball blue at (233, 125)
+
+Added ball: Color=white, Position=(407, 55)
+Merged balls to form a red ball.
+Current Score: 2
+Ball white at (192, 55.5)
+Ball white at (95, 55.3)
+Ball blue at (233, 125.05)
+Ball red at (393.5, 55.075)
+
+Game finished. Final Score: 2

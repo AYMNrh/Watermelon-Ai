@@ -1,0 +1,172 @@
+Added ball: Color=purple, Position=(290, 170)
+Current Score: 0
+Ball purple at (290, 170)
+
+Added ball: Color=purple, Position=(229, 170)
+Current Score: 0
+Ball purple at (290, 170.05)
+Ball purple at (229, 170)
+
+Added ball: Color=purple, Position=(380, 170)
+Current Score: 0
+Ball purple at (290, 170.15)
+Ball purple at (229, 170.05)
+Ball purple at (380, 170)
+
+Added ball: Color=purple, Position=(230, 170)
+Current Score: 0
+Ball purple at (290, 170.3)
+Ball purple at (229, 170.15)
+Ball purple at (380, 170.05)
+Ball purple at (230, 170)
+
+Added ball: Color=purple, Position=(375, 170)
+Current Score: 0
+Ball purple at (290, 170.5)
+Ball purple at (229, 170.3)
+Ball purple at (380, 170.15)
+Ball purple at (230, 170.05)
+Ball purple at (375, 170)
+
+Added ball: Color=purple, Position=(421, 170)
+Current Score: 0
+Ball purple at (290, 170.75)
+Ball purple at (229, 170.5)
+Ball purple at (380, 170.3)
+Ball purple at (230, 170.15)
+Ball purple at (375, 170.05)
+Ball purple at (421, 170)
+
+Added ball: Color=purple, Position=(229, 170)
+Current Score: 0
+Ball purple at (290, 171.05)
+Ball purple at (229, 170.75)
+Ball purple at (380, 170.5)
+Ball purple at (230, 170.3)
+Ball purple at (375, 170.15)
+Ball purple at (421, 170.05)
+Ball purple at (229, 170)
+
+Added ball: Color=purple, Position=(382, 170)
+Current Score: 0
+Ball purple at (290, 171.4)
+Ball purple at (229, 171.05)
+Ball purple at (380, 170.75)
+Ball purple at (230, 170.5)
+Ball purple at (375, 170.3)
+Ball purple at (421, 170.15)
+Ball purple at (229, 170.05)
+Ball purple at (382, 170)
+
+Added ball: Color=purple, Position=(305, 170)
+Current Score: 0
+Ball purple at (290, 171.8)
+Ball purple at (229, 171.4)
+Ball purple at (380, 171.05)
+Ball purple at (230, 170.75)
+Ball purple at (375, 170.5)
+Ball purple at (421, 170.3)
+Ball purple at (229, 170.15)
+Ball purple at (382, 170.05)
+Ball purple at (305, 170)
+
+Added ball: Color=purple, Position=(235, 170)
+Current Score: 0
+Ball purple at (290, 172.25)
+Ball purple at (229, 171.8)
+Ball purple at (380, 171.4)
+Ball purple at (230, 171.05)
+Ball purple at (375, 170.75)
+Ball purple at (421, 170.5)
+Ball purple at (229, 170.3)
+Ball purple at (382, 170.15)
+Ball purple at (305, 170.05)
+Ball purple at (235, 170)
+
+Game finished naturally. Final Score: 0
+Added ball: Color=purple, Position=(235, 170)
+Current Score: 0
+Ball purple at (235, 170)
+
+Added ball: Color=purple, Position=(300, 170)
+Current Score: 0
+Ball purple at (235, 170.05)
+Ball purple at (300, 170)
+
+Added ball: Color=purple, Position=(375, 170)
+Current Score: 0
+Ball purple at (235, 170.15)
+Ball purple at (300, 170.05)
+Ball purple at (375, 170)
+
+Added ball: Color=purple, Position=(197, 170)
+Current Score: 0
+Ball purple at (235, 170.3)
+Ball purple at (300, 170.15)
+Ball purple at (375, 170.05)
+Ball purple at (197, 170)
+
+Added ball: Color=purple, Position=(409, 170)
+Current Score: 0
+Ball purple at (235, 170.5)
+Ball purple at (300, 170.3)
+Ball purple at (375, 170.15)
+Ball purple at (197, 170.05)
+Ball purple at (409, 170)
+
+Added ball: Color=purple, Position=(428, 170)
+Current Score: 0
+Ball purple at (235, 170.75)
+Ball purple at (300, 170.5)
+Ball purple at (375, 170.3)
+Ball purple at (197, 170.15)
+Ball purple at (409, 170.05)
+Ball purple at (428, 170)
+
+Added ball: Color=purple, Position=(355, 170)
+Current Score: 0
+Ball purple at (235, 171.05)
+Ball purple at (300, 170.75)
+Ball purple at (375, 170.5)
+Ball purple at (197, 170.3)
+Ball purple at (409, 170.15)
+Ball purple at (428, 170.05)
+Ball purple at (355, 170)
+
+Added ball: Color=purple, Position=(354, 170)
+Current Score: 0
+Ball purple at (235, 171.4)
+Ball purple at (300, 171.05)
+Ball purple at (375, 170.75)
+Ball purple at (197, 170.5)
+Ball purple at (409, 170.3)
+Ball purple at (428, 170.15)
+Ball purple at (355, 170.05)
+Ball purple at (354, 170)
+
+Added ball: Color=purple, Position=(369, 170)
+Current Score: 0
+Ball purple at (235, 171.8)
+Ball purple at (300, 171.4)
+Ball purple at (375, 171.05)
+Ball purple at (197, 170.75)
+Ball purple at (409, 170.5)
+Ball purple at (428, 170.3)
+Ball purple at (355, 170.15)
+Ball purple at (354, 170.05)
+Ball purple at (369, 170)
+
+Added ball: Color=purple, Position=(194, 170)
+Current Score: 0
+Ball purple at (235, 172.25)
+Ball purple at (300, 171.8)
+Ball purple at (375, 171.4)
+Ball purple at (197, 171.05)
+Ball purple at (409, 170.75)
+Ball purple at (428, 170.5)
+Ball purple at (355, 170.3)
+Ball purple at (354, 170.15)
+Ball purple at (369, 170.05)
+Ball purple at (194, 170)
+
+Game finished naturally. Final Score: 0

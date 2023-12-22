@@ -1,0 +1,23 @@
+Added ball: Color=white, Position=(274, 55)
+Current Score: 0
+Ball white at (274, 55)
+
+Added ball: Color=white, Position=(67, 55)
+Current Score: 0
+Ball white at (274, 55.05)
+Ball white at (67, 55)
+
+Added ball: Color=orange, Position=(178, 82)
+Current Score: 0
+Ball white at (274, 55.15)
+Ball white at (67, 55.05)
+Ball orange at (178, 82)
+
+Added ball: Color=orange, Position=(136, 82)
+Merged balls to form a yellow ball.
+Current Score: 8
+Ball white at (274, 55.3)
+Ball white at (67, 55.15)
+Ball yellow at (157.0, 82.025)
+
+Game finished. Final Score: 8

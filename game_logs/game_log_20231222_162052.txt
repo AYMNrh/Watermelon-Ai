@@ -1,0 +1,31 @@
+Added ball: Color=red, Position=(458, 62)
+Current Score: 0
+Ball red at (458, 62)
+
+Added ball: Color=red, Position=(398, 62)
+Current Score: 0
+Ball red at (458, 62.05)
+Ball red at (398, 62)
+
+Added ball: Color=white, Position=(342, 55)
+Current Score: 0
+Ball red at (458, 62.15)
+Ball red at (398, 62.05)
+Ball white at (342, 55)
+
+Added ball: Color=white, Position=(178, 55)
+Current Score: 0
+Ball red at (458, 62.3)
+Ball red at (398, 62.15)
+Ball white at (342, 55.05)
+Ball white at (178, 55)
+
+Added ball: Color=red, Position=(108, 62)
+Current Score: 0
+Ball red at (458, 62.5)
+Ball red at (398, 62.3)
+Ball white at (342, 55.15)
+Ball white at (178, 55.05)
+Ball red at (108, 62)
+
+Game finished naturally. Final Score: 0
