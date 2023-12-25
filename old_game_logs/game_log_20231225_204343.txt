@@ -1,0 +1,62 @@
+Added ball: Color=red, Position=(139, 62)
+Current Score: 0
+Ball red at (139, 63)
+
+Added ball: Color=green, Position=(342, 108)
+Current Score: 0
+Ball red at (139, 65)
+Ball green at (342, 109)
+
+Added ball: Color=white, Position=(271, 55)
+Current Score: 0
+Ball red at (139, 68)
+Ball green at (342, 111)
+Ball white at (271, 56)
+
+Added ball: Color=white, Position=(85, 55)
+Current Score: 0
+Ball red at (139, 72)
+Ball green at (342, 114)
+Ball white at (271, 58)
+Ball white at (85, 56)
+
+Added ball: Color=white, Position=(465, 55)
+Current Score: 0
+Ball red at (139, 77)
+Ball green at (342, 118)
+Ball white at (271, 61)
+Ball white at (85, 58)
+Ball white at (465, 56)
+
+Game finished naturally. Final Score: 0
+Added ball: Color=green, Position=(288, 108)
+Current Score: 0
+Ball green at (288, 109)
+
+Added ball: Color=white, Position=(492, 55)
+Current Score: 0
+Ball green at (288, 111)
+Ball white at (492, 56)
+
+Added ball: Color=yellow, Position=(268, 95)
+Current Score: 0
+Ball green at (288, 114)
+Ball white at (492, 58)
+Ball yellow at (268, 96)
+
+Added ball: Color=white, Position=(169, 55)
+Current Score: 0
+Ball green at (288, 118)
+Ball white at (492, 61)
+Ball yellow at (268, 98)
+Ball white at (169, 56)
+
+Added ball: Color=white, Position=(450, 55)
+Current Score: 0
+Ball green at (288, 123)
+Ball white at (492, 65)
+Ball yellow at (268, 101)
+Ball white at (169, 58)
+Ball white at (450, 56)
+
+Game finished naturally. Final Score: 0

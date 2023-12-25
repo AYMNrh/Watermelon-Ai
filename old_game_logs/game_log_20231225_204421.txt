@@ -1,0 +1,181 @@
+Added ball: Color=hot_pink, Position=(172, 150)
+Current Score: 0
+Ball hot_pink at (172, 151)
+
+Added ball: Color=hot_pink, Position=(221, 150)
+Merged balls to form a purple ball.
+Current Score: 128
+Ball purple at (196.5, 152.0)
+
+Added ball: Color=hot_pink, Position=(238, 150)
+Current Score: 128
+Ball purple at (196.5, 153.0)
+Ball hot_pink at (238, 151)
+
+Added ball: Color=hot_pink, Position=(377, 150)
+Merged balls to form a purple ball.
+Current Score: 256
+Ball purple at (196.5, 155.0)
+Ball purple at (307.5, 152.0)
+
+Added ball: Color=hot_pink, Position=(312, 150)
+Current Score: 256
+Ball purple at (196.5, 158.0)
+Ball purple at (307.5, 153.0)
+Ball hot_pink at (312, 151)
+
+Added ball: Color=hot_pink, Position=(212, 150)
+Merged balls to form a purple ball.
+Current Score: 384
+Ball purple at (196.5, 162.0)
+Ball purple at (307.5, 155.0)
+Ball purple at (262.0, 152.0)
+
+Added ball: Color=hot_pink, Position=(193, 150)
+Current Score: 384
+Ball purple at (196.5, 167.0)
+Ball purple at (307.5, 158.0)
+Ball purple at (262.0, 153.0)
+Ball hot_pink at (193, 151)
+
+Added ball: Color=hot_pink, Position=(320, 150)
+Merged balls to form a purple ball.
+Current Score: 512
+Ball purple at (196.5, 173.0)
+Ball purple at (307.5, 162.0)
+Ball purple at (262.0, 155.0)
+Ball purple at (256.5, 152.0)
+
+Added ball: Color=hot_pink, Position=(247, 150)
+Current Score: 512
+Ball purple at (196.5, 180.0)
+Ball purple at (307.5, 167.0)
+Ball purple at (262.0, 158.0)
+Ball purple at (256.5, 153.0)
+Ball hot_pink at (247, 151)
+
+Added ball: Color=hot_pink, Position=(271, 150)
+Merged balls to form a purple ball.
+Current Score: 640
+Ball purple at (196.5, 188.0)
+Ball purple at (307.5, 173.0)
+Ball purple at (262.0, 162.0)
+Ball purple at (256.5, 155.0)
+Ball purple at (259.0, 152.0)
+
+Added ball: Color=hot_pink, Position=(419, 150)
+Current Score: 640
+Ball purple at (196.5, 197.0)
+Ball purple at (307.5, 180.0)
+Ball purple at (262.0, 167.0)
+Ball purple at (256.5, 158.0)
+Ball purple at (259.0, 153.0)
+Ball hot_pink at (419, 151)
+
+Added ball: Color=hot_pink, Position=(210, 150)
+Merged balls to form a purple ball.
+Current Score: 768
+Ball purple at (196.5, 207.0)
+Ball purple at (307.5, 188.0)
+Ball purple at (262.0, 173.0)
+Ball purple at (256.5, 162.0)
+Ball purple at (259.0, 155.0)
+Ball purple at (314.5, 152.0)
+
+Added ball: Color=hot_pink, Position=(403, 150)
+Current Score: 768
+Ball purple at (196.5, 218.0)
+Ball purple at (307.5, 197.0)
+Ball purple at (262.0, 180.0)
+Ball purple at (256.5, 167.0)
+Ball purple at (259.0, 158.0)
+Ball purple at (314.5, 153.0)
+Ball hot_pink at (403, 151)
+
+Added ball: Color=hot_pink, Position=(408, 150)
+Merged balls to form a purple ball.
+Current Score: 896
+Ball purple at (196.5, 230.0)
+Ball purple at (307.5, 207.0)
+Ball purple at (262.0, 188.0)
+Ball purple at (256.5, 173.0)
+Ball purple at (259.0, 162.0)
+Ball purple at (314.5, 155.0)
+Ball purple at (405.5, 152.0)
+
+Added ball: Color=hot_pink, Position=(176, 150)
+Current Score: 896
+Ball purple at (196.5, 243.0)
+Ball purple at (307.5, 218.0)
+Ball purple at (262.0, 197.0)
+Ball purple at (256.5, 180.0)
+Ball purple at (259.0, 167.0)
+Ball purple at (314.5, 158.0)
+Ball purple at (405.5, 153.0)
+Ball hot_pink at (176, 151)
+
+Added ball: Color=hot_pink, Position=(241, 150)
+Merged balls to form a purple ball.
+Current Score: 1024
+Ball purple at (196.5, 257.0)
+Ball purple at (307.5, 230.0)
+Ball purple at (262.0, 207.0)
+Ball purple at (256.5, 188.0)
+Ball purple at (259.0, 173.0)
+Ball purple at (314.5, 162.0)
+Ball purple at (405.5, 155.0)
+Ball purple at (208.5, 152.0)
+
+Added ball: Color=hot_pink, Position=(353, 150)
+Current Score: 1024
+Ball purple at (196.5, 272.0)
+Ball purple at (307.5, 243.0)
+Ball purple at (262.0, 218.0)
+Ball purple at (256.5, 197.0)
+Ball purple at (259.0, 180.0)
+Ball purple at (314.5, 167.0)
+Ball purple at (405.5, 158.0)
+Ball purple at (208.5, 153.0)
+Ball hot_pink at (353, 151)
+
+Added ball: Color=hot_pink, Position=(421, 150)
+Merged balls to form a purple ball.
+Current Score: 1152
+Ball purple at (196.5, 288.0)
+Ball purple at (307.5, 257.0)
+Ball purple at (262.0, 230.0)
+Ball purple at (256.5, 207.0)
+Ball purple at (259.0, 188.0)
+Ball purple at (314.5, 173.0)
+Ball purple at (405.5, 162.0)
+Ball purple at (208.5, 155.0)
+Ball purple at (387.0, 152.0)
+
+Added ball: Color=hot_pink, Position=(198, 150)
+Current Score: 1152
+Ball purple at (196.5, 305.0)
+Ball purple at (307.5, 272.0)
+Ball purple at (262.0, 243.0)
+Ball purple at (256.5, 218.0)
+Ball purple at (259.0, 197.0)
+Ball purple at (314.5, 180.0)
+Ball purple at (405.5, 167.0)
+Ball purple at (208.5, 158.0)
+Ball purple at (387.0, 153.0)
+Ball hot_pink at (198, 151)
+
+Added ball: Color=hot_pink, Position=(355, 150)
+Merged balls to form a purple ball.
+Current Score: 1280
+Ball purple at (196.5, 323.0)
+Ball purple at (307.5, 288.0)
+Ball purple at (262.0, 257.0)
+Ball purple at (256.5, 230.0)
+Ball purple at (259.0, 207.0)
+Ball purple at (314.5, 188.0)
+Ball purple at (405.5, 173.0)
+Ball purple at (208.5, 162.0)
+Ball purple at (387.0, 155.0)
+Ball purple at (276.5, 152.0)
+
+Game finished naturally. Final Score: 1280

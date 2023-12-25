@@ -1,0 +1,34 @@
+Added ball: Color=red, Position=(179, 62)
+Current Score: 0
+Ball red at (179, 62)
+
+Added ball: Color=orange, Position=(408, 82)
+Current Score: 0
+Ball red at (179, 62.05)
+Ball orange at (408, 82)
+
+Added ball: Color=red, Position=(350, 62)
+Current Score: 0
+Ball red at (179, 62.15)
+Ball orange at (408, 82.05)
+Ball red at (350, 62)
+
+Added ball: Color=white, Position=(415, 55)
+Current Score: 0
+Ball red at (179, 62.3)
+Ball orange at (408, 82.14999999999999)
+Ball red at (350, 62.05)
+Ball white at (415, 55)
+
+Added ball: Color=green, Position=(189, 108)
+Current Score: 0
+Ball red at (179, 62.5)
+Ball orange at (408, 82.3)
+Ball red at (350, 62.15)
+Ball white at (415, 55.05)
+Ball green at (189, 108)
+
+Added ball: Color=orange, Position=(419, 82)
+Merged balls to form a yellow ball.
+Game Over! A ball has crossed the height limit. Remaining Moves: 495
+Game Over! A ball has crossed the height limit. Remaining Moves: 494

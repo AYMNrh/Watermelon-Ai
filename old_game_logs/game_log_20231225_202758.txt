@@ -1,0 +1,56 @@
+Added ball: Color=green, Position=(481, 108)
+Current Score: 0
+Ball green at (481, 108)
+
+Added ball: Color=white, Position=(78, 55)
+Current Score: 0
+Ball green at (481, 108.05)
+Ball white at (78, 55)
+
+Added ball: Color=white, Position=(428, 55)
+Current Score: 0
+Ball green at (481, 108.14999999999999)
+Ball white at (78, 55.05)
+Ball white at (428, 55)
+
+Added ball: Color=green, Position=(190, 108)
+Current Score: 0
+Ball green at (481, 108.3)
+Ball white at (78, 55.15)
+Ball white at (428, 55.05)
+Ball green at (190, 108)
+
+Added ball: Color=white, Position=(456, 55)
+Merged balls to form a red ball.
+Game Over! A ball has crossed the height limit. Remaining Moves: 1
+Added ball: Color=white, Position=(168, 55)
+Current Score: 0
+Ball white at (168, 55)
+
+Added ball: Color=white, Position=(78, 55)
+Current Score: 0
+Ball white at (168, 55.05)
+Ball white at (78, 55)
+
+Added ball: Color=white, Position=(131, 55)
+Current Score: 0
+Ball white at (168, 55.15)
+Ball white at (78, 55.05)
+Ball white at (131, 55)
+
+Added ball: Color=orange, Position=(515, 82)
+Current Score: 0
+Ball white at (168, 55.3)
+Ball white at (78, 55.15)
+Ball white at (131, 55.05)
+Ball orange at (515, 82)
+
+Added ball: Color=white, Position=(334, 55)
+Current Score: 0
+Ball white at (168, 55.5)
+Ball white at (78, 55.3)
+Ball white at (131, 55.15)
+Ball orange at (515, 82.05)
+Ball white at (334, 55)
+
+Game finished naturally. Final Score: 0

@@ -1,0 +1,1 @@
+Added ball: Color=white, Position=(344, 55)

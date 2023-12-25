@@ -1,0 +1,31 @@
+Added ball: Color=orange, Position=(313, 82)
+Current Score: 0
+Ball orange at (313, 82)
+
+Added ball: Color=white, Position=(317, 55)
+Current Score: 0
+Ball orange at (313, 82.05)
+Ball white at (317, 55)
+
+Added ball: Color=white, Position=(513, 55)
+Current Score: 0
+Ball orange at (313, 82.14999999999999)
+Ball white at (317, 55.05)
+Ball white at (513, 55)
+
+Added ball: Color=white, Position=(90, 55)
+Current Score: 0
+Ball orange at (313, 82.3)
+Ball white at (317, 55.15)
+Ball white at (513, 55.05)
+Ball white at (90, 55)
+
+Added ball: Color=white, Position=(142, 55)
+Current Score: 0
+Ball orange at (313, 82.5)
+Ball white at (317, 55.3)
+Ball white at (513, 55.15)
+Ball white at (90, 55.05)
+Ball white at (142, 55)
+
+Game finished naturally. Final Score: 0

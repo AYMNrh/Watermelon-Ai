@@ -1,0 +1,7 @@
+Added ball: Color=white, Position=(416, 55)
+Current Score: 0
+Ball white at (416, 55)
+
+Added ball: Color=white, Position=(469, 55)
+Game Over! A ball has crossed the height limit. Remaining Moves: 4
+Game Over! A ball has crossed the height limit. Remaining Moves: 3

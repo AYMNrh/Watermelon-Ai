@@ -1,0 +1,19 @@
+Added ball: Color=white, Position=(498, 55)
+Current Score: 0
+Ball white at (498, 55)
+
+Added ball: Color=white, Position=(239, 55)
+Current Score: 0
+Ball white at (498, 55.05)
+Ball white at (239, 55)
+
+Added ball: Color=white, Position=(85, 55)
+Current Score: 0
+Ball white at (498, 55.15)
+Ball white at (239, 55.05)
+Ball white at (85, 55)
+
+Added ball: Color=white, Position=(504, 55)
+Merged balls to form a red ball.
+Game Over! A ball has crossed the height limit. Remaining Moves: 2
+Game Over! A ball has crossed the height limit. Remaining Moves: 1

@@ -4,13 +4,13 @@ from datetime import datetime
 import os
 
 # Game settings
-screen_width = 600
-screen_height = 800
-limit_height = 600  # Height limit for game over
-gravity = 0.05
-num_moves = 5  # Number of balls to drop
+screen_width = 600 
+screen_height = 900
+limit_height = 700  # Height limit for game over
+gravity = 1
+num_moves = 200  # Number of balls to drop
 skewed_probability = [0.7, 0.1, 0.05, 0.08, 0.04, 0.02, 0.01, 0, 0]
-# skewed_probability = [0, 0, 0, 0, 0, 0, 0, 0, 1]  # Only purple balls
+# skewed_probability = [0, 0, 0, 0, 0, 0, 0, 1, 0]  # Only purple balls
 
 # Ball properties
 color_order = ['white', 'red', 'orange', 'yellow', 'green', 'blue', 'thistle', 'hot_pink', 'purple']
@@ -41,25 +41,25 @@ def add_ball():
 def update_physics():
     global score, game_over
     for ball in balls:
-        ball['y'] += ball['vy']
-        ball['vy'] += gravity
+        if ball['vy'] >= 0:  # Ball is still moving
+            ball['vy'] += gravity
+            ball['y'] += ball['vy']
 
-        # Ball stops at the bottom of the screen
-        if ball['y'] + ball['radius'] >= screen_height - 40:
-            ball['y'] = screen_height - 40 - ball['radius']
-            ball['vy'] = 0
+            # Ball stops at the bottom of the screen
+            if ball['y'] + ball['radius'] >= screen_height - 40:
+                ball['y'] = screen_height - 40 - ball['radius']
+                ball['vy'] = -1  # Mark the ball as stopped
 
-        # Check for game over condition: Ball crosses the height limit
-        if ball['y'] - ball['radius'] < limit_height:
-            game_over = True
-            return "Game Over"
-
-    # Improved collision and merging code
-    for i in range(len(balls)):
-        for j in range(i + 1, len(balls)):
-            ball1, ball2 = balls[i], balls[j]
+    # Check for ball collisions and merges
+    i = 0
+    while i < len(balls):
+        ball1 = balls[i]
+        j = i + 1
+        while j < len(balls):
+            ball2 = balls[j]
             dx, dy = ball1['x'] - ball2['x'], ball1['y'] - ball2['y']
             distance = math.sqrt(dx**2 + dy**2)
+
             if distance < ball1['radius'] + ball2['radius']:
                 if ball1['color'] == ball2['color']:
                     color_index = color_order.index(ball1['color'])
@@ -74,11 +74,19 @@ def update_physics():
                         balls.remove(ball2)
                         score += score_order[color_index + 1]
                         log_game(f"Merged balls to form a {merged_ball['color']} ball.")
-                        # Check for game over condition after merging
-                        if merged_ball['y'] - merged_ball['radius'] < limit_height:
-                            game_over = True
-                            return "Game Over"
-                        return None
+                        i = -1  # Restart the loop since balls list is modified
+                        break
+                j += 1
+            if i == -1:
+                break
+            j += 1
+        i += 1
+
+    # Check for game over condition
+    for ball in balls:
+        if ball['vy'] == -1 and (ball['y'] - ball['radius'] < limit_height):
+            game_over = True
+            return "Game Over"
 
     return None
 

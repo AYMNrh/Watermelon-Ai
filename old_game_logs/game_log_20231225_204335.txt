@@ -1,0 +1,31 @@
+Added ball: Color=white, Position=(261, 55)
+Current Score: 0
+Ball white at (261, 56)
+
+Added ball: Color=white, Position=(82, 55)
+Current Score: 0
+Ball white at (261, 58)
+Ball white at (82, 56)
+
+Added ball: Color=white, Position=(486, 55)
+Current Score: 0
+Ball white at (261, 61)
+Ball white at (82, 58)
+Ball white at (486, 56)
+
+Added ball: Color=white, Position=(439, 55)
+Current Score: 0
+Ball white at (261, 65)
+Ball white at (82, 61)
+Ball white at (486, 58)
+Ball white at (439, 56)
+
+Added ball: Color=thistle, Position=(337, 134)
+Current Score: 0
+Ball white at (261, 70)
+Ball white at (82, 65)
+Ball white at (486, 61)
+Ball white at (439, 58)
+Ball thistle at (337, 135)
+
+Game finished naturally. Final Score: 0

@@ -1,0 +1,3 @@
+Added ball: Color=yellow, Position=(243, 95)
+Game Over! A ball has crossed the height limit. Remaining Moves: 5
+Game Over! A ball has crossed the height limit. Remaining Moves: 4

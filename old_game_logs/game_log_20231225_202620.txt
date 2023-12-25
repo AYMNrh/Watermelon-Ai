@@ -1,0 +1,31 @@
+Added ball: Color=white, Position=(319, 55)
+Current Score: 0
+Ball white at (319, 55)
+
+Added ball: Color=white, Position=(223, 55)
+Current Score: 0
+Ball white at (319, 55.05)
+Ball white at (223, 55)
+
+Added ball: Color=white, Position=(104, 55)
+Current Score: 0
+Ball white at (319, 55.15)
+Ball white at (223, 55.05)
+Ball white at (104, 55)
+
+Added ball: Color=blue, Position=(399, 125)
+Current Score: 0
+Ball white at (319, 55.3)
+Ball white at (223, 55.15)
+Ball white at (104, 55.05)
+Ball blue at (399, 125)
+
+Added ball: Color=white, Position=(377, 55)
+Current Score: 0
+Ball white at (319, 55.5)
+Ball white at (223, 55.3)
+Ball white at (104, 55.15)
+Ball blue at (399, 125.05)
+Ball white at (377, 55)
+
+Game finished naturally. Final Score: 0

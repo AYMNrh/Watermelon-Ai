@@ -1,0 +1,23 @@
+Added ball: Color=red, Position=(439, 62)
+Current Score: 0
+Ball red at (439, 62)
+
+Added ball: Color=white, Position=(432, 55)
+Current Score: 0
+Ball red at (448.53483961905675, 71.65294561633573)
+Ball white at (409.47756515792406, 32.3166906233378)
+
+Added ball: Color=white, Position=(338, 55)
+Current Score: 0
+Ball red at (448.53483961905675, 71.75294561633572)
+Ball white at (409.47756515792406, 32.366690623337796)
+Ball white at (338, 55)
+
+Added ball: Color=white, Position=(421, 55)
+Current Score: 0
+Ball red at (450.53371388553484, 73.13000426231338)
+Ball white at (408.102482139197, 29.35579666232306)
+Ball white at (338, 55.05)
+Ball white at (420.43271848713755, 57.25088173740484)
+
+Game finished naturally. Final Score: 0

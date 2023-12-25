@@ -1,0 +1,23 @@
+Added ball: Color=purple, Position=(212, 170)
+Current Score: 0
+Ball purple at (212, 170)
+
+Added ball: Color=purple, Position=(428, 170)
+Current Score: 0
+Ball purple at (190.00000348293884, 170.05509259178638)
+Ball purple at (452.24073654831443, 169.9943887183916)
+
+Added ball: Color=purple, Position=(303, 170)
+Current Score: 0
+Ball purple at (116.50012418560516, 170.25597123893294)
+Ball purple at (568.2702867286448, 170.92035019028106)
+Ball purple at (-173.68342661276455, 165.31899376166194)
+
+Added ball: Color=purple, Position=(244, 170)
+Current Score: 0
+Ball purple at (50.25072108620236, 170.61691538364713)
+Ball purple at (586.4692237744972, 171.12948822063777)
+Ball purple at (-173.68342661276455, 165.36899376166195)
+Ball purple at (324.9926596822713, 169.56142756316282)
+
+Game finished naturally. Final Score: 0

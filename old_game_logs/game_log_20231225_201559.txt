@@ -1,0 +1,8 @@
+Added ball: Color=hot_pink, Position=(272, 150)
+Current Score: 0
+Ball hot_pink at (272, 150)
+
+Added ball: Color=hot_pink, Position=(419, 150)
+Merged balls to form a purple ball.
+Game Over! A ball has crossed the height limit. Remaining Moves: 499
+Game Over! A ball has crossed the height limit. Remaining Moves: 498
